@@ -1,0 +1,1 @@
+Simon game is that game where you need to copy the moves that are made by the soundbox. A little challenging to be honest.

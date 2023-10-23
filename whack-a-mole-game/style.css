@@ -1,0 +1,47 @@
+body {
+    font-size: 10px;
+}
+
+.square {
+    width: 180px;
+    height: 180px;
+    border-style: solid;
+    border-color: black;
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+}
+
+.mole {
+    background-image: url(mole.jpg);
+    background-size: cover;
+}
+
+@media (max-width: 720px) {
+    body {
+        font-size: 40%;
+    }
+    
+    .square {
+        width: 100px;
+        height: 100px;
+        border-style: solid;
+        border-color: black;
+    }
+
+    .grid {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-content: center;
+        width: 400px;
+        height: 400px;
+    }
+    
+}

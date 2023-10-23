@@ -1,0 +1,1 @@
+This is a simple game of connect four dots, where the first player to make a straight line of the same color wins the game.

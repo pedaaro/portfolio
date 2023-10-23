@@ -1,0 +1,1 @@
+Whoever clicks the most times on the frog wins the game. It's that simple but also that hard.
